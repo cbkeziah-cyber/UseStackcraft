@@ -1,8 +1,9 @@
-export default async function TagPage({ params }: { params: { tag: string } }) {
+export default async function TagPage({ params }: { params: Promise<{ tag: string }> }) {
   const { default: fs } = await import("fs");
   const { default: path } = await import("path");
 
-  const tag = decodeURIComponent(params.tag);
+  const { tag: rawTag } = await params;
+  const tag = decodeURIComponent(rawTag);
 
   const blogDir = path.join(process.cwd(), "src", "app", "blog");
   const entries = await fs.promises.readdir(blogDir, { withFileTypes: true });
