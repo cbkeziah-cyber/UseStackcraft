@@ -125,7 +125,9 @@ function ChartTooltipContent({
     indicator?: "line" | "dot" | "dashed"
     nameKey?: string
     labelKey?: string
-  }) {
+  } & {
+    payload?: RechartsPrimitive.TooltipPayload<number, string>[]
+  } & Record<string, any>) {
   const { config } = useChart()
 
   const tooltipLabel = React.useMemo(() => {
