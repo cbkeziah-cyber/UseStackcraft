@@ -126,7 +126,7 @@ function ChartTooltipContent({
     nameKey?: string
     labelKey?: string
   } & {
-    payload?: RechartsPrimitive.TooltipPayload<number, string>[]
+    payload?: any[]
   } & Record<string, any>) {
   const { config } = useChart()
 
