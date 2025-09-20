@@ -4,6 +4,7 @@ import VisualEditsMessenger from "../visual-edits/VisualEditsMessenger";
 import ErrorReporter from "@/components/ErrorReporter";
 import Script from "next/script";
 import { Nav } from "@/components/Nav";
+import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "StackCraft",
@@ -72,10 +73,10 @@ export default function RootLayout({
         {/* Global Navbar */}
         <header className="sticky top-0 z-40 border-b border-border bg-background/80 backdrop-blur shadow-sm">
           <div className="mx-auto max-w-6xl px-6 h-14 flex items-center justify-between">
-            <a href="/" className="flex items-center gap-2 font-semibold tracking-tight text-primary text-lg">
+            <Link href="/" className="flex items-center gap-2 font-semibold tracking-tight text-primary text-lg">
               <img src="/stackcraft-mark.svg" alt="StackCraft logo" className="h-6 w-6" />
               <span>StackCraft</span>
-            </a>
+            </Link>
             {/* replace static links with Nav component */}
             <Nav />
           </div>
@@ -86,11 +87,11 @@ export default function RootLayout({
             <p>
               Disclosure: Some links on this site are affiliate links. If you click and make a purchase,
               we may earn a commission at no additional cost to you. This helps support our work.
-              Read the full <a href="/disclosure" className="underline hover:no-underline">Affiliate Disclosure</a>.
+              Read the full <Link href="/disclosure" className="underline hover:no-underline">Affiliate Disclosure</Link>.
               <span className="mx-2">·</span>
-              <a href="/rss.xml" className="underline hover:no-underline">RSS</a>
+              <Link href="/rss.xml" className="underline hover:no-underline">RSS</Link>
               <span className="mx-2">·</span>
-              <a href="/sitemap.xml" className="underline hover:no-underline">Sitemap</a>
+              <Link href="/sitemap.xml" className="underline hover:no-underline">Sitemap</Link>
             </p>
           </div>
         </footer>

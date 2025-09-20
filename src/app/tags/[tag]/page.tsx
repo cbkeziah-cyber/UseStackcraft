@@ -1,3 +1,4 @@
+import Link from "next/link";
 export default async function TagPage({ params }: { params: Promise<{ tag: string }> }) {
   const { default: fs } = await import("fs");
   const { default: path } = await import("path");
@@ -48,13 +49,13 @@ export default async function TagPage({ params }: { params: Promise<{ tag: strin
       <div className="flex items-baseline justify-between gap-4">
         {/* Title */}
         <h1 className="text-3xl md:text-4xl font-semibold tracking-tight text-primary">Tag: #{tag}</h1>
-        <a href="/tags" className="text-sm text-muted-foreground hover:underline">All tags</a>
+        <Link href="/tags" className="text-sm text-muted-foreground hover:underline">All tags</Link>
       </div>
       <p className="mt-2 text-muted-foreground">{filtered.length} post{filtered.length === 1 ? "" : "s"} tagged with #{tag}—focused on helping you automate your online marketing.</p>
 
       <div className="mt-6 grid grid-cols-1 md:grid-cols-2 gap-4">
         {filtered.map((p) => (
-          <a key={p.slug} href={`/blog/${p.slug}`} className="rounded-lg border bg-card p-4 transition hover:bg-secondary/60 ring-1 ring-transparent hover:ring-primary/20 hover:shadow-sm">
+          <Link key={p.slug} href={`/blog/${p.slug}`} className="rounded-lg border bg-card p-4 transition hover:bg-secondary/60 ring-1 ring-transparent hover:ring-primary/20 hover:shadow-sm">
             <div className="flex items-center justify-between gap-3">
               <h2 className="font-medium line-clamp-1">{p.title}</h2>
               <time className="text-xs text-muted-foreground" dateTime={p.date}>{new Date(p.date).toLocaleDateString()}</time>
@@ -67,7 +68,7 @@ export default async function TagPage({ params }: { params: Promise<{ tag: strin
                 ))}
               </div>
             ) : null}
-          </a>
+          </Link>
         ))}
         {filtered.length === 0 && (
           <div className="text-sm text-muted-foreground">No posts found for this tag.</div>
