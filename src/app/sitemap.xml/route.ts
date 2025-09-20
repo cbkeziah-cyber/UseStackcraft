@@ -45,7 +45,7 @@ export async function GET(request: Request) {
     blogUrls = [];
   }
 
-  const urls = [
+  const urls: { loc: string; lastmod?: string }[] = [
     ...staticPaths.map((p) => ({ loc: `${origin}${p}` })),
     ...blogUrls,
   ];
