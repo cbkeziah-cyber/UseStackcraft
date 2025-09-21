@@ -1,10 +1,10 @@
-import { NextRequest, NextResponse } from 'next/server';
+import { NextResponse } from 'next/server';
 import { db } from '@/db';
 import { files } from '@/db/schema';
 import { eq } from 'drizzle-orm';
 
 // GET /api/files/[id]/download - Download file binary (public)
-export async function GET(request: NextRequest, { params }: { params: { id: string } }) {
+export async function GET(request: Request, { params }: any) {
   try {
     const { id } = params;
     
