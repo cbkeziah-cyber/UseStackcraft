@@ -50,8 +50,7 @@ export default function Page() {
                 Ideal for: creators, media-style newsletters, solo teams focused on audience growth & monetization
               </li>
               <li>
-                Standouts: built-in referral program, ad/boost networks, paid subscriptions, audience growth tools, simple editor
-                {" "}
+                Standouts: built-in referral program, ad/boost networks, paid subscriptions, audience growth tools, simple editor{" "}
                 <a
                   href="https://www.beehiiv.com/pricing"
                   target="_blank"
@@ -71,8 +70,7 @@ export default function Page() {
                 </a>
               </li>
               <li>
-                Notable feedback: strong growth/monetization focus; some mixed support/account reviews on Trustpilot
-                {" "}
+                Notable feedback: strong growth/monetization focus; some mixed support/account reviews on Trustpilot{" "}
                 <a
                   href="https://www.trustpilot.com/review/www.beehiiv.com"
                   target="_blank"
@@ -95,8 +93,7 @@ export default function Page() {
                 Ideal for: small businesses wanting broad marketing features (email, forms, sites, basic CRM, SMS add-on)
               </li>
               <li>
-                Standouts: templates, brand recognition, multi-channel add-ons, large ecosystem
-                {" "}
+                Standouts: templates, brand recognition, multi-channel add-ons, large ecosystem{" "}
                 <a
                   href="https://mailchimp.com/pricing/marketing/"
                   target="_blank"
@@ -116,8 +113,7 @@ export default function Page() {
                 </a>
               </li>
               <li>
-                Notable feedback: good UI and features; some users cite price increases and billing/support frustrations
-                {" "}
+                Notable feedback: good UI and features; some users cite price increases and billing/support frustrations{" "}
                 <a
                   href="https://www.trustpilot.com/review/www.mailchimp.com"
                   target="_blank"
@@ -145,8 +141,7 @@ export default function Page() {
               <tr>
                 <td className="p-3 font-medium">Free plan</td>
                 <td className="p-3">
-                  Launch plan $0, up to 2,500 subscribers; unlimited sends; website & basic analytics
-                  {" "}
+                  Launch plan $0, up to 2,500 subscribers; unlimited sends; website & basic analytics{" "}
                   <a
                     href="https://www.beehiiv.com/pricing"
                     target="_blank"
@@ -157,8 +152,7 @@ export default function Page() {
                   </a>
                 </td>
                 <td className="p-3">
-                  Free tier exists but limited; 14‑day Standard trial promos vary over time
-                  {" "}
+                  Free tier exists but limited; 14‑day Standard trial promos vary over time{" "}
                   <a
                     href="https://mailchimp.com/pricing/marketing/"
                     target="_blank"
@@ -172,8 +166,7 @@ export default function Page() {
               <tr>
                 <td className="p-3 font-medium">Core paid pricing</td>
                 <td className="p-3">
-                  Scale from ~$34.40/mo billed annually; Max from ~$76.80/mo billed annually (tiered by subscribers)
-                  {" "}
+                  Scale from ~$34.40/mo billed annually; Max from ~$76.80/mo billed annually (tiered by subscribers){" "}
                   <a
                     href="https://www.beehiiv.com/pricing"
                     target="_blank"
@@ -184,8 +177,7 @@ export default function Page() {
                   </a>
                 </td>
                 <td className="p-3">
-                  Standard/Essentials/Premium tiers; pricing scales by contacts and sends; Premium removes contact limits
-                  {" "}
+                  Standard/Essentials/Premium tiers; pricing scales by contacts and sends; Premium removes contact limits{" "}
                   <a
                     href="https://mailchimp.com/pricing/marketing/"
                     target="_blank"
@@ -198,8 +190,7 @@ export default function Page() {
               </tr>
               <tr>
                 <td className="p-3 font-medium">Automation</td>
-                <td className="p-3">Visual automations included on Scale+; webhooks & API access available
-                  {" "}
+                <td className="p-3">Visual automations included on Scale+; webhooks & API access available{" "}
                   <a
                     href="https://www.beehiiv.com/pricing"
                     target="_blank"
@@ -209,8 +200,7 @@ export default function Page() {
                     source
                   </a>
                 </td>
-                <td className="p-3">Enhanced automations on Standard+; journey builder and segmentation
-                  {" "}
+                <td className="p-3">Enhanced automations on Standard+; journey builder and segmentation{" "}
                   <a
                     href="https://mailchimp.com/pricing/marketing/"
                     target="_blank"
@@ -223,8 +213,7 @@ export default function Page() {
               </tr>
               <tr>
                 <td className="p-3 font-medium">Monetization</td>
-                <td className="p-3">Ad Network, Boost Network, paid subscriptions, referral program built‑in
-                  {" "}
+                <td className="p-3">Ad Network, Boost Network, paid subscriptions, referral program built‑in{" "}
                   <a
                     href="https://www.emailtooltester.com/en/reviews/beehiiv/"
                     target="_blank"
@@ -239,8 +228,7 @@ export default function Page() {
               <tr>
                 <td className="p-3 font-medium">SMS</td>
                 <td className="p-3">No native SMS package highlighted; focus remains on newsletters</td>
-                <td className="p-3">SMS add‑on available and integrated with email journeys
-                  {" "}
+                <td className="p-3">SMS add‑on available and integrated with email journeys{" "}
                   <a
                     href="https://mailchimp.com/pricing/sms-marketing/"
                     target="_blank"
@@ -253,8 +241,7 @@ export default function Page() {
               </tr>
               <tr>
                 <td className="p-3 font-medium">Reviews snapshot</td>
-                <td className="p-3">Mixed on Trustpilot; praise for creator focus; some complaints on account/support
-                  {" "}
+                <td className="p-3">Mixed on Trustpilot; praise for creator focus; some complaints on account/support{" "}
                   <a
                     href="https://www.trustpilot.com/review/www.beehiiv.com"
                     target="_blank"
@@ -273,8 +260,7 @@ export default function Page() {
                     EVS
                   </a>
                 </td>
-                <td className="p-3">G2 4.3/5 (12k+ reviews); Trustpilot ~3.0/5 and recurring billing/support concerns
-                  {" "}
+                <td className="p-3">G2 4.3/5 (12k+ reviews); Trustpilot ~3.0/5 and recurring billing/support concerns{" "}
                   <a
                     href="https://www.g2.com/products/intuit-mailchimp-email-marketing/reviews"
                     target="_blank"
@@ -306,17 +292,19 @@ export default function Page() {
         {/* CTA row (affiliate links to be added later) */}
         <div className="mt-6 grid gap-3 sm:grid-cols-2">
           <a
-            href="#"
+            href="https://www.beehiiv.com?via=Christopher-Keziah"
+            target="_blank"
+            rel="nofollow sponsored noopener"
             className="group inline-flex items-center justify-center rounded-md border border-primary/30 bg-secondary/40 px-4 py-2 text-sm font-medium transition hover:bg-secondary/70 hover:ring-2 hover:ring-primary/30"
           >
-            Try beehiiv — add your affiliate link
+            Try beehiiv
             <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-0.5" aria-hidden="true" />
           </a>
           <a
             href="#"
             className="group inline-flex items-center justify-center rounded-md border border-primary/30 bg-secondary/40 px-4 py-2 text-sm font-medium transition hover:bg-secondary/70 hover:ring-2 hover:ring-primary/30"
           >
-            Try Mailchimp — add your affiliate link
+            Try Mailchimp
             <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-0.5" aria-hidden="true" />
           </a>
         </div>
@@ -411,12 +399,10 @@ export default function Page() {
               </tr>
               <tr>
                 <td className="p-3 font-medium">Reviews snapshot</td>
-                <td className="p-3">Generally positive among creators; requests for deeper reporting
-                  {" "}
+                <td className="p-3">Generally positive among creators; requests for deeper reporting{" "}
                   <a href="https://www.g2.com/products/convertkit/reviews" target="_blank" rel="noopener noreferrer" className="text-primary underline underline-offset-4">G2</a>
                 </td>
-                <td className="p-3">Praised for growth tools; mixed on support/account actions
-                  {" "}
+                <td className="p-3">Praised for growth tools; mixed on support/account actions{" "}
                   <a href="https://www.trustpilot.com/review/www.beehiiv.com" target="_blank" rel="noopener noreferrer" className="text-primary underline underline-offset-4">Trustpilot</a>
                 </td>
               </tr>
@@ -429,8 +415,8 @@ export default function Page() {
           </table>
         </div>
         <div className="mt-6 grid gap-3 sm:grid-cols-2">
-          <a href="#" className="group inline-flex items-center justify-center rounded-md border border-primary/30 bg-secondary/40 px-4 py-2 text-sm font-medium transition hover:bg-secondary/70 hover:ring-2 hover:ring-primary/30">Try ConvertKit — add your affiliate link<ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-0.5" aria-hidden="true" /></a>
-          <a href="#" className="group inline-flex items-center justify-center rounded-md border border-primary/30 bg-secondary/40 px-4 py-2 text-sm font-medium transition hover:bg-secondary/70 hover:ring-2 hover:ring-primary/30">Try beehiiv — add your affiliate link<ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-0.5" aria-hidden="true" /></a>
+          <a href="#" className="group inline-flex items-center justify-center rounded-md border border-primary/30 bg-secondary/40 px-4 py-2 text-sm font-medium transition hover:bg-secondary/70 hover:ring-2 hover:ring-primary/30">Try ConvertKit<ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-0.5" aria-hidden="true" /></a>
+          <a href="https://www.beehiiv.com?via=Christopher-Keziah" target="_blank" rel="nofollow sponsored noopener" className="group inline-flex items-center justify-center rounded-md border border-primary/30 bg-secondary/40 px-4 py-2 text-sm font-medium transition hover:bg-secondary/70 hover:ring-2 hover:ring-primary/30">Try beehiiv<ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-0.5" aria-hidden="true" /></a>
         </div>
         <p className="mt-3 text-xs text-muted-foreground">Pricing/features change frequently. Always verify on vendor sites.</p>
       </section>
@@ -523,8 +509,7 @@ export default function Page() {
                 <td className="p-3">Praised for simplicity and value for small lists{" "}
                   <a href="https://www.g2.com/products/mailerlite/reviews" target="_blank" rel="noopener noreferrer" className="text-primary underline underline-offset-4">G2</a>
                 </td>
-                <td className="p-3">Strong brand and features; concerns around pricing changes
-                  {" "}
+                <td className="p-3">Strong brand and features; concerns around pricing changes{" "}
                   <a href="https://www.g2.com/products/intuit-mailchimp-email-marketing/reviews" target="_blank" rel="noopener noreferrer" className="text-primary underline underline-offset-4">G2</a>
                 </td>
               </tr>
@@ -537,8 +522,8 @@ export default function Page() {
           </table>
         </div>
         <div className="mt-6 grid gap-3 sm:grid-cols-2">
-          <a href="#" className="group inline-flex items-center justify-center rounded-md border border-primary/30 bg-secondary/40 px-4 py-2 text-sm font-medium transition hover:bg-secondary/70 hover:ring-2 hover:ring-primary/30">Try MailerLite — add your affiliate link<ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-0.5" aria-hidden="true" /></a>
-          <a href="#" className="group inline-flex items-center justify-center rounded-md border border-primary/30 bg-secondary/40 px-4 py-2 text-sm font-medium transition hover:bg-secondary/70 hover:ring-2 hover:ring-primary/30">Try Mailchimp — add your affiliate link<ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-0.5" aria-hidden="true" /></a>
+          <a href="#" className="group inline-flex items-center justify-center rounded-md border border-primary/30 bg-secondary/40 px-4 py-2 text-sm font-medium transition hover:bg-secondary/70 hover:ring-2 hover:ring-primary/30">Try MailerLite<ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-0.5" aria-hidden="true" /></a>
+          <a href="#" className="group inline-flex items-center justify-center rounded-md border border-primary/30 bg-secondary/40 px-4 py-2 text-sm font-medium transition hover:bg-secondary/70 hover:ring-2 hover:ring-primary/30">Try Mailchimp<ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-0.5" aria-hidden="true" /></a>
         </div>
         <p className="mt-3 text-xs text-muted-foreground">Pricing/features change frequently. Always verify on vendor sites.</p>
       </section>
@@ -628,12 +613,10 @@ export default function Page() {
               </tr>
               <tr>
                 <td className="p-3 font-medium">Reviews snapshot</td>
-                <td className="p-3">Well‑regarded for ecommerce features; steeper learning curve for non‑commerce
-                  {" "}
+                <td className="p-3">Well‑regarded for ecommerce features; steeper learning curve for non‑commerce{" "}
                   <a href="https://www.g2.com/products/klaviyo/reviews" target="_blank" rel="noopener noreferrer" className="text-primary underline underline-offset-4">G2</a>
                 </td>
-                <td className="p-3">Accessible UI and templates; some pricing/support concerns
-                  {" "}
+                <td className="p-3">Accessible UI and templates; some pricing/support concerns{" "}
                   <a href="https://www.g2.com/products/intuit-mailchimp-email-marketing/reviews" target="_blank" rel="noopener noreferrer" className="text-primary underline underline-offset-4">G2</a>
                 </td>
               </tr>
@@ -646,8 +629,8 @@ export default function Page() {
           </table>
         </div>
         <div className="mt-6 grid gap-3 sm:grid-cols-2">
-          <a href="#" className="group inline-flex items-center justify-center rounded-md border border-primary/30 bg-secondary/40 px-4 py-2 text-sm font-medium transition hover:bg-secondary/70 hover:ring-2 hover:ring-primary/30">Try Klaviyo — add your affiliate link<ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-0.5" aria-hidden="true" /></a>
-          <a href="#" className="group inline-flex items-center justify-center rounded-md border border-primary/30 bg-secondary/40 px-4 py-2 text-sm font-medium transition hover:bg-secondary/70 hover:ring-2 hover:ring-primary/30">Try Mailchimp — add your affiliate link<ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-0.5" aria-hidden="true" /></a>
+          <a href="#" className="group inline-flex items-center justify-center rounded-md border border-primary/30 bg-secondary/40 px-4 py-2 text-sm font-medium transition hover:bg-secondary/70 hover:ring-2 hover:ring-primary/30">Try Klaviyo<ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-0.5" aria-hidden="true" /></a>
+          <a href="#" className="group inline-flex items-center justify-center rounded-md border border-primary/30 bg-secondary/40 px-4 py-2 text-sm font-medium transition hover:bg-secondary/70 hover:ring-2 hover:ring-primary/30">Try Mailchimp<ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-0.5" aria-hidden="true" /></a>
         </div>
         <p className="mt-3 text-xs text-muted-foreground">Pricing/features change frequently. Always verify on vendor sites.</p>
       </section>

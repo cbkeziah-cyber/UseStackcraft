@@ -10,6 +10,13 @@ export default function Page() {
       {/* Quick CTA Row */}
       <div className="mt-6 flex flex-wrap gap-3">
         {/* updated CTA styles */}
+        <a href="/comparisons" className="group inline-flex items-center gap-1 rounded-md border border-primary/30 bg-secondary/40 px-4 py-2 text-sm font-medium shadow-md transition hover:bg-secondary/70 hover:ring-2 hover:ring-primary/30">
+          <span>Browse Comparisons</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="h-4 w-4 transition-transform group-hover:translate-x-0.5">
+            <path d="M5 12h14" />
+            <path d="m12 5 7 7-7 7" />
+          </svg>
+        </a>
         <a href="/comparisons/template" className="group inline-flex items-center gap-1 rounded-md border border-primary/30 bg-secondary/40 px-4 py-2 text-sm font-medium shadow-md transition hover:bg-secondary/70 hover:ring-2 hover:ring-primary/30">
           <span>Use Comparison Template</span>
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="h-4 w-4 transition-transform group-hover:translate-x-0.5">

@@ -95,7 +95,7 @@ export default function Home() {
             <div className="mt-5 flex items-center gap-2">
               {/* Replace the placeholder with your affiliate URL */}
               <a
-                href="https://www.beehiiv.com?via=YOUR_AFF_ID"
+                href="https://www.beehiiv.com?via=Christopher-Keziah"
                 className="group inline-flex items-center gap-1 rounded-md border border-primary/30 bg-secondary/40 px-3 py-2 text-sm font-medium transition hover:bg-secondary/70 hover:ring-2 hover:ring-primary/30"
                 rel="nofollow sponsored noopener"
               >
